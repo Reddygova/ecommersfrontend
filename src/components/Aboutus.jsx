@@ -5,7 +5,7 @@ import { Link, Outlet } from "react-router-dom";
 const AboutUs = () => {
   return (
     <div className="about-container">
-      <h2>About Our Electronic Store in vijayawada</h2>
+      <h2>About Govardhan Electronic Store in vijayawada</h2>
       <h3>Govardhan Reddy</h3>
       <h3>Govardhan</h3>
       <p>
